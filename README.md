@@ -367,25 +367,6 @@ pip install -e .
 - Check system resource usage
 - Consider lowering camera resolution
 
-## 🚀 Roadmap & Future Development
-
-### Short-term Goals (1-3 months)
-- [ ] **Mobile Optimization**: Responsive design for tablets and phones
-- [ ] **Video Analysis**: Upload and analyze recorded videos
-- [ ] **Data Export**: CSV/PDF report generation
-- [ ] **Multi-language Support**: Additional language interfaces
-
-### Medium-term Goals (3-6 months)
-- [ ] **Patient Database**: Multi-user tracking and history
-- [ ] **Advanced Analytics**: Trend analysis and progress tracking
-- [ ] **Telemedicine Integration**: Remote consultation features
-- [ ] **Wearable Integration**: IoT device data fusion
-
-### Long-term Vision (6+ months)
-- [ ] **AI Enhancement**: Custom model training for specific populations
-- [ ] **Clinical Validation**: Peer-reviewed accuracy studies
-- [ ] **Enterprise Features**: Hospital/clinic management systems
-- [ ] **Research Platform**: Academic collaboration tools
 
 ## 🤝 Contributing
 
@@ -411,10 +392,7 @@ We welcome contributions to improve and expand the Pose-Think suite! Here's how 
 - **Variables**: Descriptive names with clear purpose
 - **Structure**: Modular design following existing patterns
 
-## 📄 License & Legal
-
-### License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for complete terms.
+## 📄 Legal
 
 ### Medical Disclaimer
 ⚠️ **Important**: These applications are for educational and research purposes only. They do not provide medical diagnosis or replace professional healthcare advice. Always consult qualified healthcare professionals for medical concerns.
@@ -430,31 +408,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **[Google MediaPipe](https://mediapipe.dev/)**: State-of-the-art ML framework for pose and hand detection
 - **[Gradio](https://gradio.app/)**: Intuitive web interface framework for ML applications
 - **[OpenCV](https://opencv.org/)**: Comprehensive computer vision library
-
-### Clinical Expertise
-- **Physiotherapy Community**: Professional guidance and clinical validation
-- **Biomechanics Researchers**: Scientific foundation and methodology
-- **Healthcare Professionals**: Real-world testing and feedback
-
-### Development Support
-- **Open Source Community**: Continuous inspiration and collaboration
-- **Academic Institutions**: Research partnerships and validation studies
-
-## 📞 Contact & Support
-
-### Developer
-- **Name**: Sems Kurtoglu
-- **GitHub**: [@semskurto](https://github.com/semskurto)
-- **Project Repository**: [pose-think](https://github.com/semskurto/pose-think)
-
-### Support Channels
-- **Issues**: Use GitHub Issues for bug reports and feature requests
-- **Discussions**: GitHub Discussions for questions and community interaction
-- **Documentation**: Check `demo_instructions.md` for detailed usage guides
-
-### Professional Inquiries
-For clinical partnerships, research collaborations, or commercial licensing, please contact through GitHub or create a detailed issue with your requirements.
-
----
-
-**🎯 Mission**: Democratizing access to professional-grade movement analysis through open-source AI technology, making advanced biomechanical assessment available to healthcare professionals, researchers, and individuals worldwide.
