@@ -1,0 +1,40 @@
+# Core dependencies for Real-time Hand Tracking System
+# Temel bağımlılıklar - El Takip Sistemi için
+
+# Computer Vision and Image Processing
+# Bilgisayarlı görü ve görüntü işleme
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+
+# Web Interface and UI
+# Web arayüzü ve kullanıcı arayüzü
+gradio>=4.0.0
+
+# Numerical Computing and Array Operations
+# Sayısal hesaplama ve dizi işlemleri
+numpy>=1.21.0
+
+# Image Processing and Manipulation
+# Görüntü işleme ve manipülasyon
+Pillow>=9.0.0
+
+# Optional: Enhanced performance and additional features
+# İsteğe bağlı: Gelişmiş performans ve ek özellikler
+
+# For better video codec support
+# Daha iyi video codec desteği için
+# opencv-contrib-python>=4.8.0  # Uncomment if needed / Gerekirse yorumu kaldırın
+
+# For GPU acceleration (if available)
+# GPU hızlandırma için (varsa)
+# tensorflow>=2.10.0  # Uncomment for TensorFlow GPU support / TensorFlow GPU desteği için yorumu kaldırın
+
+# Development and Testing (optional)
+# Geliştirme ve test (isteğe bağlı)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=5.0.0
+
+# System Information
+# Sistem bilgisi
+# psutil>=5.9.0  # For system monitoring / Sistem izleme için
