@@ -1,5 +1,5 @@
 # 🎯 Pose-Think: AI-Powered Movement Analysis Suite  
-*test*
+*demo*
 
 A comprehensive collection of AI-powered applications for human movement analysis, ranging from basic hand tracking to advanced physiotherapy assessment. Built with MediaPipe and Gradio for real-time, web-based analysis.
 
